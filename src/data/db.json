@@ -1,0 +1,25 @@
+{
+    "trips": [
+        {
+            "id": 1,
+            "name": "Bangok",
+            "destination": "Thailand",
+            "price": 2000,
+            "stay": "3 days"
+        },
+        {
+            "id": 2,
+            "name": "Pyin Oo Lwin",
+            "destination": "Myanmar",
+            "price": 1000,
+            "stay": "2 days"
+        },
+        {
+            "id": 3,
+            "name": "Tokyo",
+            "destination": "Japan",
+            "price": 4000,
+            "stay": "4 days"
+        }
+    ]
+}
